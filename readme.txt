@@ -11,9 +11,26 @@ Simple, powerful tools to social following and make your site more viral.
 
 == Description ==
 
-= Viral Follow Buttons = 
+= Social Media Fan and Follow Buttons = 
 
-Get more followers and increase your site’s viral growth by installing the UP Viral Follow Buttons widget! Unlike your normal, everyday follow button plugin, UP’s responsive, cloud-based viral tools have been specifically designed to help boost viral growth without slowing down load time.
+Get more fans and followers on social media and increase your audience size by installing the UP social media fan and follow buttons. Unlike your normal, everyday fan and follower plugins, UP’s responsive, cloud-based social media tools have been specifically designed to help boost your fan and follower count without slowing down load time.
+
+Also - UP is the only social media plugin on the planet that allows you to create a reward that your users can unlock by becoming a fan or follower, meaning your users now have another, more clear REASON to follow you.
+
+[>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-follow-buttons-by-up.zip)
+
+With UP Social Media Fan and Follow Rewards, as users follow or like you on their favorite social networks, and users can instantly unlock a promo code you create for your products/services. Don’t have anything to sell? No problem – choose a reward from our store for free, and give your users a reward for sharing from any of our awesome rewards partners, or turn rewards off entirely. It’s totally up to you!
+
+UP’s customizable platform and Viral Social Media Fan and Follow Buttons plugin help you optimize your content, blog posts and pages for more social engagement and a wider viral reach, and will give users a reason (i.e. a reward) becoming a fan or follower – building your audience and social influence much quicker.
+
+What’s more - by signing up as an UP user for free after installing UP social media fan and follow icons, you can access DOZENS of customization options to control the placement, size, style, animation and hover states of your fan and follow buttons on your UP Partner Dashboard.
+
+You don’t just want people to become fans and followers – you want them to start CONVERSATIONS around your content that their networks engage in and start Sharing. You also want your site to be PROMOTED to other users who are sharing similar sites on their social networks and social media accounts. UP gets you new fans and followers, more shares, more customers and more sales – all in one simple, easy to install plugin.
+
+Stop begging users to follow or like you and giving them nothing in return. Use social media fan and follower buttons by UP, and give people a reason to follow!
+
+100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your audience through incentivized social media fan and following.
+
 [>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-follow-buttons-by-up.zip)
 
 = Custom Follow Button Placement =
@@ -24,6 +41,42 @@ Get more followers and increase your site’s viral growth by installing the UP 
 *   Easily controlled from your UP dashboard
 *   One-click install, or easy-to-implement shortcode
 *   Never impedes your content
+
+
+= Lightening Fast =
+
+*   < 190 ms load time
+*   150 kb in size
+*   Perfect Google Pagespeed score
+*   Value-add for both site owners AND users through Sharing Rewards (no other sharing widget provides this)
+
+= Automatically Optimized = 
+
+*   Clean, flat, modern design
+*   The UP team optimizes widget features based on in-house testing
+*   We work behind the scenes to make your site more viral 
+*   We give you the data on most viral sharing widget states
+*   Install Plugin on any CMS or shopping cart
+*   Compatible with all browsers and devices
+*   Safe and secure using industry best practices
+
+= Unique Viral Features = 
+
+*   Market-leading Follow widget performance
+*   Points-based incentives to give users a reason to share on social networks
+*   The more interactions a user’s share gets, the more points they’re awarded
+*   This ensures they share what their network responds to – so you aren’t seen as spam
+*   No other social sharing widget gives users a reason to voluntarily link their networks
+*   You get never-before-seen cross-network viral sharing data to see how, why and when users are sharing your pages and posts
+*   WE PROMOTE YOUR SITE – we show your site to other users who share similar content with their networks.
+*   You get data and insights even if users just copy/paste links or re-share on their networks (they link their sharing history to UP)
+
+= 100% Free to use, Upgrade to Switch On Mobile Sharing and Activate Rewards =
+
+*   Just install the UP widget free and sign up as a partner in 30 seconds or less
+*   Industry-leading partner support (we actually listen to your feedback)
+*   Incredibly-detailed documentation and tutorials
+
 
 == Installation ==
 <p>Got installation questions? If the steps below don’t help – <a href="https://www.upshare.co/contact">let us know</a>.</p>
@@ -68,9 +121,9 @@ Get more followers and increase your site’s viral growth by installing the UP 
 
 
 == Screenshots ==
- 
-1. Get more shares on your content and increase your site’s viral growth by installing the UP Viral Sharing Buttons plugin! Unlike your normal, everyday Sharing Buttons, UP’s responsive, cloud-based sharing buttons have been specifically designed to help boost viral growth without slowing down load time.  
-2. With UP Viral Sharing Buttons, as users start Sharing your content on their favorite Social Networks, you can track their sharing behavior and get viral growth data, and (coming soon) users can get points they can cash in for cool stuff in the UP Store. Users sign up for UP once by expanding the UP icon, then each time they’re Sharing your content across Social Networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network Social data on how your users are Sharing your content on their social networks.
+
+1. With UP Viral Follow Buttons, as users start Sharing your content on their favorite Social Networks, you can track their sharing behavior and get viral growth data, and (coming soon) users can get points they can cash in for cool stuff in the UP Store. Users sign up for UP once by expanding the UP icon, then each time they’re Sharing your content across Social Networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network Social data on how your users are Sharing your content on their social networks.
+2. Get more shares on your content and increase your site’s viral growth by installing the UP Viral Sharing Buttons plugin! Unlike your normal, everyday Sharing Buttons, UP’s responsive, cloud-based sharing buttons have been specifically designed to help boost viral growth without slowing down load time.  
 3. You don’t just want people Sharing your content – you want them to start CONVERSATIONS around your content that their networks engage in and start Sharing. Stop begging users to start Sharing your content and giving them nothing in return. Use Viral Sharing Buttons by UP, track viral growth, run tests, measure improvement, and give people a reason to share!
 
 
